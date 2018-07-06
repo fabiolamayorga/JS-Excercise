@@ -1,0 +1,22 @@
+{
+  "name": "js-excercise",
+  "version": "1.0.0",
+  "description": "JS Excercise",
+  "main": "app.js",
+  "scripts": {
+    "webpack": "webpack",
+    "start": "http-server"
+  },
+  "author": "fabiola Mayorga",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "http-server": "^0.11.1",
+    "node-sass": "^4.9.1",
+    "sass-loader": "^7.0.3",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
